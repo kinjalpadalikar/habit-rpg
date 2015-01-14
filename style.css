@@ -1,15 +1,20 @@
 *{
 
-  
+ margin:0px; 
 }
 
  .things_to_do{
  	float:left;
-	width:23%;
+	width:21%;
 	min-height:358px;
-	background-color:#c6d3d9;
-	margin-right:1%;
-	margin-left:1%;
+	background-color:#f2f5f6;
+	margin-right:0.9%;
+	margin-left:0.9%;
+   padding:1%;
+   border-width:1px;
+   border-color:#9DACB2;
+   border-collapse:separate;
+   border-style: solid;
 }
    .heading{
    	width:100%;
@@ -17,4 +22,191 @@
    	background-color: rgb(197, 211, 214);
    	margin-top: 0px;
    	margin-bottom: 50px;
+   }
+   .menu_bar{
+      background-color: #f4f7f7;
+      min-width: 768px;
+      min-height:47px;
+      
+   }
+   .title{
+      height:33px;
+      width: 287.25px;
+      margin-bottom: 15px;
+      font-size: 30px;
+      font-family: sans-serif;
+   font-weight: 100;
+   color:#4c666e;
+   }
+   .add_new
+   {
+      float:left;
+      width:75%;
+      height:27px;
+      background-color: white;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+      font-size: 15px;
+      padding-top: 8px;
+      padding-left:4%;
+      color:#B6B6B6;
+      font-family: sans-serif;
+
+   }
+   .heading
+   {
+      border-color:#9DACB2;
+      border-style: solid;
+      border-width: 1px;
+   }
+
+   .plus_sign
+   {
+      float:left;
+      width:19%;
+      height:29px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:20px;
+      text-align: center;
+      padding-top: 6px;
+      font-weight: 800;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+      color:#4c666e;
+   }
+
+   .left_box
+   {
+      float:left;
+      width:32%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
+   }
+
+.middle_box
+   {
+      float:left;
+      width:32%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
+   }
+   .right_box
+   {
+      float:left;
+      width:32%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
+   }
+
+   .list_box
+   {
+      width:100%;
+      min-height:100px;
+      float:left;
+   }
+
+   .box_2
+   {
+      float:left;
+      width:49%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
+   }
+
+   .box_1
+   {
+      float:left;
+      width:49%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
+   }
+
+   .right_box_2
+   {
+      float:left;
+      width:64%;
+      height:21px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 5px;
+      font-weight: 400;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      margin-bottom: 14px;
+      font-family: sans-serif;
    }
