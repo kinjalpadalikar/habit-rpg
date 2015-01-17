@@ -27,6 +27,7 @@
       background-color: #f4f7f7;
       min-width: 768px;
       min-height:47px;
+
       
    }
    .title{
@@ -209,4 +210,103 @@
       margin-top:21px;
       margin-bottom: 14px;
       font-family: sans-serif;
+   }
+
+   .avatar_box
+   {
+      float:left;
+      height:107px;
+      background-color:#dae3e5;
+      width:100px;
+      padding-left: 40px;
+      padding-top:40px;
+   }
+   .life_health
+   {
+      float:left;
+      height:97px;
+      background-color:#cfdbde;
+      width:53%;
+      padding-top:50px;
+      padding-left:2%;
+   
+   }
+
+   .white_bar
+   {
+      height:23px;
+      width:91%;
+      background-color:white;
+      border-color:#9DACB2;
+      border-style: solid;
+      border-width: 1px;
+      margin-bottom: 12px;
+      float:left;
+      text-align:right;
+      padding-right:1%;
+      line-height: 25px;
+      font-family: sans-serif;
+      font-weight:400;
+      font-size: 14px;
+   }
+
+   .health_bar
+   {
+      height:21px;
+      width:73%;
+      border-width:1px;
+      background-color:#da5353;
+      border-style:solid;
+      border-color:white;
+      float:left;
+
+   }
+
+   .experience_bar
+   {
+      height:21px;
+      width:50%;
+      border-width:1px;
+      background-color:#ffcc35;
+      border-style:solid;
+      border-color:white;
+      float:left;
+   }
+
+   .indicators
+   {
+      float:left;
+      height:21px;
+      width:27px;
+      background-color: white;
+      border-color:#9DACB2;
+      border-style: solid;
+      border-width: 1px;
+      padding:1px;
+      margin-right:5px;
+   }
+
+   .options
+   {
+      float:left;
+      width:70.609px;
+      height:27px;
+      background-color:#f6f8f9;
+      border-color:#c6d3d9;
+      border-style: solid;
+      border-width: 1px;
+      font-size:15px;
+      text-align: center;
+      padding-top: 1px;
+      font-weight: 400;
+      border-top-left-radius: 6px;
+      border-bottom-left-radius: 6px;
+      border-top-right-radius: 6px;
+      border-bottom-right-radius: 6px;
+      color:#4c666e;
+      margin-top:21px;
+      padding-left: 1px;
+      font-family: sans-serif;
+      margin-left: 8.652px
+
    }
