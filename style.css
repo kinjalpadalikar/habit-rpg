@@ -27,7 +27,7 @@
       background-color: #f4f7f7;
       min-width: 768px;
       min-height:47px;
-
+      padding-top:0px;
       
    }
    .title{
@@ -289,24 +289,27 @@
    .options
    {
       float:left;
-      width:70.609px;
-      height:27px;
+      min-width:20px;
+      height:20px;
       background-color:#f6f8f9;
       border-color:#c6d3d9;
       border-style: solid;
       border-width: 1px;
-      font-size:15px;
+      font-size:14px;
       text-align: center;
-      padding-top: 1px;
+      padding-top: 3.5px;
       font-weight: 400;
       border-top-left-radius: 6px;
       border-bottom-left-radius: 6px;
       border-top-right-radius: 6px;
       border-bottom-right-radius: 6px;
-      color:#4c666e;
-      margin-top:21px;
-      padding-left: 1px;
+      color:rgb(62, 85, 85);
+      margin-top:7px;
+      padding-left: 7px;
       font-family: sans-serif;
-      margin-left: 8.652px
+      margin-left: 8.652px;
+      padding-right:7px;
+      padding-bottom:3.5px;
+
 
    }
